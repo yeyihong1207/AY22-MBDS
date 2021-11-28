@@ -2,4 +2,4 @@
 
 AY22- MBDS Programming Interview Questions and Solutions
 
-Please see the attached folders for answers.
+Please see the attached folder for answers.
